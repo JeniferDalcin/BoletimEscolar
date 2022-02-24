@@ -1,0 +1,1 @@
+Aceita nomes e notas de alunos vindas pelo teclado, perguntando depois de cada cadastro se o professor deseja continuar acrescentando alunos, calcula a média de cada aluno e apresenta uma tabela com as iformações da turma inteira, podendo aceitar de novo pelo teclado o cod do aluno para dar um zoom nas informações somente daquele cod. 
